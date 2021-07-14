@@ -19,14 +19,13 @@ body {
 .half-width {
   
   width: 37%;
+  margin-bottom: 50px;
   
   
  
 }
 .head-section{
-  margin-left: 10px;
-
-  margin-bottom: 30px;
+  margin-left: 10px; 
 
 }
 
@@ -39,6 +38,7 @@ body {
 }
 
 .link-button {
+ 
   color: #ffffff;
   text-decoration: none;
   padding: 10px;
@@ -71,7 +71,7 @@ body {
   display: flex;
   justify-content: center;
   align-items: center;
-  margin-top: 30px;
+  margin-top: 70px;
   width: 100%;
 }
 .container {
