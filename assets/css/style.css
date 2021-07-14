@@ -19,15 +19,20 @@ body {
 .half-width {
   
   width: 37%;
-
-  margin-bottom: 30px;
+  
   
  
 }
+.head-section{
+  margin-left: 10px;
+
+  margin-bottom: 30px;
+
+}
+
 
 .heading-title {
   width: 485px;
-  height: auto;
   font-size: 64px;
   color: #ffffff;
  
@@ -36,7 +41,6 @@ body {
 .link-button {
   color: #ffffff;
   text-decoration: none;
-  width: 150px;
   padding: 10px;
   background-color: #e02c6d;
   font-size: 16px;
