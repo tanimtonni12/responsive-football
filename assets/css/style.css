@@ -16,14 +16,15 @@ body {
 }
 
 .half-width {
-  width: 30%;
+  width: 37%;
   margin-bottom: 30px;
-  overflow: hidden;
+  
+ 
 }
 
 .heading-title {
   width: 485px;
-  /* height: 230px; */
+  height: auto;
   font-size: 64px;
   color: #ffffff;
  
@@ -193,6 +194,7 @@ hr {
 .logo img {
   width: 70%;
   height: auto;
+  margin-bottom: 20px;
 }
 
 .social-icon a {
@@ -200,12 +202,12 @@ hr {
 }
 .social-icon a i {
   font-size: 25px;
-  color: gray;
+  color: #969BAB;;
   
-  margin-bottom: 1%;
+  
 }
 .social-icon a:hover {
-  background-color: rgb(14, 1, 1);
+  background-color: rgb(49, 48, 48);
 }
 .copyright {
   font-size: 18px;
